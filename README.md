@@ -100,4 +100,4 @@ This version uses:
 127.0.0.1
 ```
 so the server and client are expected to be on the same machine.
-The server currently only sends a single message and terminates the connection.
+
