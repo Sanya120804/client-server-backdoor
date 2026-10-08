@@ -91,3 +91,4 @@ This version uses:
 127.0.0.1
 ```
 so the server and client are expected to be on the same machine.
+The core socket implementation utilizes standard, open-source C networking design patterns adapted from public repositories and documentation.
